@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cu-csci3308-fall2026"
+assignment: "lab-4-client-side-scripting"
+owner:
+  username: "mamc28"
+  id: 183425859
+  accepted_at: "2026-09-17T15:27:55Z"
+source:
+  owner: "CUBoulder-CSCI-3308-Fall2026"
+  owner_id: 319159502
+  repo: "lab-4-client-side-scripting"
+  branch: "main"
